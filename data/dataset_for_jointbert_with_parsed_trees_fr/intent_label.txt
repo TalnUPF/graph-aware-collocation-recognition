@@ -1,0 +1,14 @@
+AntiMagn
+AntiReal2
+AntiVer
+CausFunc0
+CausFunc1
+Fact0
+FinOper1
+IncepOper1
+Magn
+Oper1
+Real1
+Real2
+Son
+Ver
